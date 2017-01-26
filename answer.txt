@@ -1,0 +1,12 @@
+1. Domain had the highest value for "avg_session_duration": 
+	usastaffing.opm.gov
+2. Domains had more than 50 "pageviews_per_session":
+	usastaffing.opm.gov
+	local-collections.nlm.nih.gov
+	streamstatsags.cr.usgs.gov
+	etas.uspto.gov
+	usatrade.census.gov
+	collectionsqa.nlm.nih.gov
+	sefsc.noaa.gov
+3. How many NASA domains saw at least 100,000 visits:
+	20
