@@ -1,0 +1,11 @@
+1. What percentage of the characters were non-white?
+	96/1810=5.3%
+2. What percentage of the characters were women?
+	533/1810=29.4%
+3. Which cartoonist had the highest percentage of non-white characters?
+	Suits
+	This cartoonist had 40% non-white characters.
+4. What percentage of the characters were both non-white and female?
+	25/1810=1.38%
+5. Write a paragraph that summarizes your key findings. 
+	The findings above suggest that most of the cartoon characters are set as white. Also, female characters only take less than 30% of overall characters. Moreover, the female non-white characters only take 1.38% overall characters. All the findings suggest that female roles and racial minority are not well presented as male roles and white characters.
