@@ -1,0 +1,5 @@
+1. SELECT state, SUM(amount) FROM mandel GROUP BY state;
+2. SELECT purpose, SUM(amount) FROM mandel GROUP BY purpose order by sum(amount) DESC
+3. SELECT SUM(amount) FROM mandel  WHERE purpose LIKE '%DIRECT MAIL%' 
+4. SELECT month, year, SUM(amount) FROM mandel GROUP BY month, year ORDER BY SUM(amount) DESC;
+5. SELECT payee, SUM(amount) from mandel where purpose = 'PAYROLL' GROUP BY PAYEE
